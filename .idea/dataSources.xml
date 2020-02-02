@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="adbugAliyun" uuid="c4497cab-59f1-4fb5-a159-9380b0a2e071">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://rm-bp1c5x1rhig246p88o.mysql.rds.aliyuncs.com:3306/adbugnew</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="adbugnew@localhost" uuid="1865d7b5-d07d-423a-a362-0d86a6e8961c">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://localhost:3306/adbugnew</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="@localhost" uuid="5ea708d2-9521-43a9-a69c-e15e18866d11">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://localhost:3306</jdbc-url>
+    </data-source>
+  </component>
+</project>
