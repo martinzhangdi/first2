@@ -1,0 +1,399 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f43ba8ea-76a1-4dfb-bcdc-acc4e656935d" name="Default Changelist" comment="hello">
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/5ea708d2-9521-43a9-a69c-e15e18866d11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/5ea708d2-9521-43a9-a69c-e15e18866d11/storage_v2/_src_/schema/adbug_machinelearning.l68IFw.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/5ea708d2-9521-43a9-a69c-e15e18866d11/storage_v2/_src_/schema/adbugnew.j0wdtA.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/5ea708d2-9521-43a9-a69c-e15e18866d11/storage_v2/_src_/schema/information_schema.FNRwLQ.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/5ea708d2-9521-43a9-a69c-e15e18866d11/storage_v2/_src_/schema/mysql.osA4Bg.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/5ea708d2-9521-43a9-a69c-e15e18866d11/storage_v2/_src_/schema/performance_schema.kIw0nw.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/5ea708d2-9521-43a9-a69c-e15e18866d11/storage_v2/_src_/schema/sys.zb4BAA.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/c4497cab-59f1-4fb5-a159-9380b0a2e071.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/c4497cab-59f1-4fb5-a159-9380b0a2e071/storage_v2/_src_/schema/adbugblog.k-qGzw.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/c4497cab-59f1-4fb5-a159-9380b0a2e071/storage_v2/_src_/schema/adbugnew.j0wdtA.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/c4497cab-59f1-4fb5-a159-9380b0a2e071/storage_v2/_src_/schema/adbugnew.j0wdtA.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/c4497cab-59f1-4fb5-a159-9380b0a2e071/storage_v2/_src_/schema/adbugsns.Z2AdtA.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/c4497cab-59f1-4fb5-a159-9380b0a2e071/storage_v2/_src_/schema/adbugtech.h_2Ozw.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/c4497cab-59f1-4fb5-a159-9380b0a2e071/storage_v2/_src_/schema/api.GnoBAA.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/c4497cab-59f1-4fb5-a159-9380b0a2e071/storage_v2/_src_/schema/apps.csotAA.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/c4497cab-59f1-4fb5-a159-9380b0a2e071/storage_v2/_src_/schema/brandsafety.GWmjDA.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/c4497cab-59f1-4fb5-a159-9380b0a2e071/storage_v2/_src_/schema/brandsafetynew.5_1EvA.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/c4497cab-59f1-4fb5-a159-9380b0a2e071/storage_v2/_src_/schema/cr.bwwAAA.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/c4497cab-59f1-4fb5-a159-9380b0a2e071/storage_v2/_src_/schema/data.qu8uAA.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/c4497cab-59f1-4fb5-a159-9380b0a2e071/storage_v2/_src_/schema/druid.AsW2BQ.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/c4497cab-59f1-4fb5-a159-9380b0a2e071/storage_v2/_src_/schema/dt.kAwAAA.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/c4497cab-59f1-4fb5-a159-9380b0a2e071/storage_v2/_src_/schema/dtadbug.4ShndQ.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/c4497cab-59f1-4fb5-a159-9380b0a2e071/storage_v2/_src_/schema/iadbug.qLSyuA.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/c4497cab-59f1-4fb5-a159-9380b0a2e071/storage_v2/_src_/schema/information_schema.FNRwLQ.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/c4497cab-59f1-4fb5-a159-9380b0a2e071/storage_v2/_src_/schema/integral.rNX6IQ.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/c4497cab-59f1-4fb5-a159-9380b0a2e071/storage_v2/_src_/schema/jobs.VtwxAA.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/c4497cab-59f1-4fb5-a159-9380b0a2e071/storage_v2/_src_/schema/mysql.osA4Bg.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/c4497cab-59f1-4fb5-a159-9380b0a2e071/storage_v2/_src_/schema/node.Aq4zAA.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/c4497cab-59f1-4fb5-a159-9380b0a2e071/storage_v2/_src_/schema/oc.1A0AAA.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/c4497cab-59f1-4fb5-a159-9380b0a2e071/storage_v2/_src_/schema/oc2018.uXj0wg.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/c4497cab-59f1-4fb5-a159-9380b0a2e071/storage_v2/_src_/schema/oem.V60BAA.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/c4497cab-59f1-4fb5-a159-9380b0a2e071/storage_v2/_src_/schema/overview.ee2YHw.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/c4497cab-59f1-4fb5-a159-9380b0a2e071/storage_v2/_src_/schema/performance_schema.kIw0nw.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/c4497cab-59f1-4fb5-a159-9380b0a2e071/storage_v2/_src_/schema/ssp.EL4BAA.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/c4497cab-59f1-4fb5-a159-9380b0a2e071/storage_v2/_src_/schema/test.kkQ2AA.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/c4497cab-59f1-4fb5-a159-9380b0a2e071/storage_v2/_src_/schema/urlclassify.88Beiw.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/c4497cab-59f1-4fb5-a159-9380b0a2e071/storage_v2/_src_/schema/urls.5Og2AA.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/c4497cab-59f1-4fb5-a159-9380b0a2e071/storage_v2/_src_/schema/wapp.SpI3AA.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/c4497cab-59f1-4fb5-a159-9380b0a2e071/storage_v2/_src_/schema/web_running_data.NfnyeQ.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/haha.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@localhost" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="adbugAliyun" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="adbugAliyun" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="adbugAliyun" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="adbugnew: schema" type="76f4a085:MysqlImplModel$Schema" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="first" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="C:\Users\z\PycharmProjects\first\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1X97d3fVIMOroVsNoS9xkBnhm0w" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="Python" />
+    <property name="last_opened_file_path" value="$APPLICATION_CONFIG_DIR$/scratches/first.py" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+  </component>
+  <component name="RunManager">
+    <configuration name="first" type="PythonConfigurationType" factoryName="Python">
+      <module name="first" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Python\Python37\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$APPLICATION_CONFIG_DIR$/scratches" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\z\PycharmProjects\first\first.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="root:@localhost" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="root:@localhost" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="com.intellij.database.console.session.MessageBusSession@7d5208ac" type="9fbbdea:ServiceModel$ServiceNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="root:adbugAliyun" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="root:adbugAliyun" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="com.intellij.database.console.session.MessageBusSession@6c7a3e2a" type="9fbbdea:ServiceModel$ServiceNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="root:adbugAliyun" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="com.intellij.database.console.session.MessageBusSession@c3eab78" type="9fbbdea:ServiceModel$ServiceNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="root:adbugAliyun" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="com.intellij.database.console.session.MessageBusSession@28b6019f" type="9fbbdea:ServiceModel$ServiceNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="root:adbugAliyun" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="com.intellij.database.console.session.MessageBusSession@4397f56" type="9fbbdea:ServiceModel$ServiceNode" />
+              </path>
+            </expand>
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f43ba8ea-76a1-4dfb-bcdc-acc4e656935d" name="Default Changelist" comment="" />
+      <created>1580446540533</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580446540533</updated>
+      <workItem from="1580446541722" duration="12363000" />
+      <workItem from="1580459332102" duration="21541000" />
+      <workItem from="1580491412131" duration="4995000" />
+      <workItem from="1580531275422" duration="11331000" />
+      <workItem from="1580545769113" duration="1634000" />
+      <workItem from="1580550457208" duration="7874000" />
+      <workItem from="1580617161760" duration="616000" />
+      <workItem from="1580633415331" duration="1613000" />
+      <workItem from="1580710109069" duration="534000" />
+    </task>
+    <task id="LOCAL-00001" summary="hello">
+      <created>1580633984482</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1580633984482</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="hello" />
+    <option name="LAST_COMMIT_MESSAGE" value="hello" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="361" y="70" key="#Notifications" timestamp="1580633672260">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="70" key="#Notifications/0.0.1536.824/-1920.0.1920.1040@0.0.1536.824" timestamp="1580633672260" />
+    <state x="361" y="70" key="#SQL_Dialects" timestamp="1580451999244">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="70" key="#SQL_Dialects/0.0.1536.824/-1920.0.1920.1040@0.0.1536.824" timestamp="1580451999244" />
+    <state x="-1469" y="88" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1580550124314">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1469" y="88" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1580550124314" />
+    <state x="361" y="70" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824/-1920.0.1920.1040@0.0.1536.824" timestamp="1580479925679" />
+    <state x="-1536" y="275" key="#xdebugger.XInspectDialog" timestamp="1580455953001">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1536" y="275" key="#xdebugger.XInspectDialog/0.0.1536.824/-1920.0.1920.1040@0.0.1536.824" timestamp="1580455953001" />
+    <state x="365" y="0" key="CommitChangelistDialog2" timestamp="1580710267969">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="365" y="0" key="CommitChangelistDialog2/0.0.1536.824/-1920.0.1920.1040@0.0.1536.824" timestamp="1580710267969" />
+    <state width="1918" height="783" key="DebuggerActiveHint" timestamp="1580536190007">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1918" height="783" key="DebuggerActiveHint/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1580536190007" />
+    <state width="1534" height="620" key="DebuggerActiveHint/0.0.1536.824/-1920.0.1920.1040@0.0.1536.824" timestamp="1580455580912" />
+    <state x="408" y="161" key="FileChooserDialogImpl" timestamp="1580710586324">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="-1410" y="203" key="FileChooserDialogImpl/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1580535926513" />
+    <state x="408" y="161" key="FileChooserDialogImpl/0.0.1536.824/-1920.0.1920.1040@0.0.1536.824" timestamp="1580710586324" />
+    <state x="408" y="161" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1580495802553" />
+    <state x="583" y="318" width="394" height="189" key="Github.CreateGistDialog" timestamp="1580710227851">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="583" y="318" width="394" height="189" key="Github.CreateGistDialog/0.0.1536.824/-1920.0.1920.1040@0.0.1536.824" timestamp="1580710227851" />
+    <state x="642" y="302" width="276" height="219" key="Github.ShareDialog" timestamp="1580710513334">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="642" y="302" width="276" height="219" key="Github.ShareDialog/0.0.1536.824/-1920.0.1920.1040@0.0.1536.824" timestamp="1580710513334" />
+    <state x="579" y="34" key="Github.UntrackedFilesDialog" timestamp="1580633637373">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="579" y="34" key="Github.UntrackedFilesDialog/0.0.1536.824/-1920.0.1920.1040@0.0.1536.824" timestamp="1580633637373" />
+    <state width="797" height="199" key="GridCell.Tab.0.bottom" timestamp="1580710383184">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="937" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1580552337403" />
+    <state width="797" height="199" key="GridCell.Tab.0.bottom/0.0.1536.824/-1920.0.1920.1040@0.0.1536.824" timestamp="1580710383184" />
+    <state width="797" height="273" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1580617161774" />
+    <state width="797" height="199" key="GridCell.Tab.0.center" timestamp="1580710383183">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="937" height="210" key="GridCell.Tab.0.center/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1580552337403" />
+    <state width="797" height="199" key="GridCell.Tab.0.center/0.0.1536.824/-1920.0.1920.1040@0.0.1536.824" timestamp="1580710383183" />
+    <state width="797" height="273" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1580617161773" />
+    <state width="797" height="199" key="GridCell.Tab.0.left" timestamp="1580710383183">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="937" height="210" key="GridCell.Tab.0.left/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1580552337403" />
+    <state width="797" height="199" key="GridCell.Tab.0.left/0.0.1536.824/-1920.0.1920.1040@0.0.1536.824" timestamp="1580710383183" />
+    <state width="797" height="273" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1580617161773" />
+    <state width="797" height="199" key="GridCell.Tab.0.right" timestamp="1580710383183">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="937" height="210" key="GridCell.Tab.0.right/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1580552337403" />
+    <state width="797" height="199" key="GridCell.Tab.0.right/0.0.1536.824/-1920.0.1920.1040@0.0.1536.824" timestamp="1580710383183" />
+    <state width="797" height="273" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1580617161774" />
+    <state width="937" height="263" key="GridCell.Tab.1.bottom" timestamp="1580551420993">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="937" height="263" key="GridCell.Tab.1.bottom/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1580551420993" />
+    <state width="746" height="178" key="GridCell.Tab.1.bottom/0.0.1536.824/-1920.0.1920.1040@0.0.1536.824" timestamp="1580484474852" />
+    <state width="746" height="245" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1580494373852" />
+    <state width="937" height="263" key="GridCell.Tab.1.center" timestamp="1580551420992">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="937" height="263" key="GridCell.Tab.1.center/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1580551420992" />
+    <state width="746" height="178" key="GridCell.Tab.1.center/0.0.1536.824/-1920.0.1920.1040@0.0.1536.824" timestamp="1580484474852" />
+    <state width="746" height="245" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1580494373851" />
+    <state width="937" height="263" key="GridCell.Tab.1.left" timestamp="1580551420992">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="937" height="263" key="GridCell.Tab.1.left/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1580551420992" />
+    <state width="746" height="178" key="GridCell.Tab.1.left/0.0.1536.824/-1920.0.1920.1040@0.0.1536.824" timestamp="1580484474852" />
+    <state width="746" height="245" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1580494373851" />
+    <state width="937" height="263" key="GridCell.Tab.1.right" timestamp="1580551420993">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="937" height="263" key="GridCell.Tab.1.right/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1580551420993" />
+    <state width="746" height="178" key="GridCell.Tab.1.right/0.0.1536.824/-1920.0.1920.1040@0.0.1536.824" timestamp="1580484474852" />
+    <state width="746" height="245" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1580494373851" />
+    <state width="265" height="681" key="HiddenNamespacesPopup" timestamp="1580487652676">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="265" height="681" key="HiddenNamespacesPopup/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1580487652676" />
+    <state width="212" height="539" key="HiddenNamespacesPopup/0.0.1536.824/-1920.0.1920.1040@0.0.1536.824" timestamp="1580461820764" />
+    <state x="221" y="0" key="SettingsEditor" timestamp="1580633720762">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="221" y="0" key="SettingsEditor/0.0.1536.824/-1920.0.1920.1040@0.0.1536.824" timestamp="1580633720762" />
+    <state x="269" y="22" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1580568973832" />
+    <state x="361" y="141" key="Vcs.Push.Dialog.v2" timestamp="1580710632388">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="141" key="Vcs.Push.Dialog.v2/0.0.1536.824/-1920.0.1920.1040@0.0.1536.824" timestamp="1580710632388" />
+    <state width="775" height="419" key="XDebugger.FullValuePopup" timestamp="1580455952869">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="775" height="419" key="XDebugger.FullValuePopup/0.0.1536.824/-1920.0.1920.1040@0.0.1536.824" timestamp="1580455952869" />
+    <state x="318" y="66" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1580471804655">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="318" y="66" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1536.824/-1920.0.1920.1040@0.0.1536.824" timestamp="1580471804655" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$APPLICATION_CONFIG_DIR$/scratches/upload.py</url>
+          <line>6</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$APPLICATION_CONFIG_DIR$/scratches/upload.py</url>
+          <line>7</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$APPLICATION_CONFIG_DIR$/scratches/first.py</url>
+          <line>43</line>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$APPLICATION_CONFIG_DIR$/scratches/first.py</url>
+          <line>46</line>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$APPLICATION_CONFIG_DIR$/scratches/first.py</url>
+          <line>32</line>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+      </breakpoints>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="len(data_1)" language="TEXT" />
+        <watch expression="data_1.loc[index,'url']" language="TEXT" />
+        <watch expression="row" language="TEXT" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/first$first.coverage" NAME="first Coverage Results" MODIFIED="1580570018880" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$APPLICATION_CONFIG_DIR$/scratches" />
+  </component>
+</project>
